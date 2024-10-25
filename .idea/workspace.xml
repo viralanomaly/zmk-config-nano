@@ -9,9 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="test info.json">
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="full row keys off a bit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/info.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/build.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,14 +137,7 @@
       <workItem from="1728318469277" duration="4667000" />
       <workItem from="1728406145951" duration="697000" />
       <workItem from="1728482843239" duration="1376000" />
-    </task>
-    <task id="LOCAL-00167" summary="trying polling">
-      <option name="closed" value="true" />
-      <created>1725055299962</created>
-      <option name="number" value="00167" />
-      <option name="presentableId" value="LOCAL-00167" />
-      <option name="project" value="LOCAL" />
-      <updated>1725055299962</updated>
+      <workItem from="1729884984164" duration="244000" />
     </task>
     <task id="LOCAL-00168" summary="reworked left cluster, removed polling">
       <option name="closed" value="true" />
@@ -530,7 +523,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729801141741</updated>
     </task>
-    <option name="localTasksCounter" value="216" />
+    <task id="LOCAL-00216" summary="full row keys off a bit">
+      <option name="closed" value="true" />
+      <created>1729801758494</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1729801758494</updated>
+    </task>
+    <option name="localTasksCounter" value="217" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -592,7 +593,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="not k_home" />
     <MESSAGE value="encoders missing in conf" />
     <MESSAGE value="test enabling zmk studio" />
     <MESSAGE value="single snippet" />
@@ -617,202 +617,207 @@
     <MESSAGE value="typos and conf" />
     <MESSAGE value="possible bad pin 0.11" />
     <MESSAGE value="test info.json" />
-    <option name="LAST_COMMIT_MESSAGE" value="test info.json" />
+    <MESSAGE value="full row keys off a bit" />
+    <option name="LAST_COMMIT_MESSAGE" value="full row keys off a bit" />
   </component>
-  <component name="WfRunsListSearchHistory">{
-  &quot;history&quot;: [
+  <component name="WfRunsListSearchHistory"><![CDATA[{
+  "history": [
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00216&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00216",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00216&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00216",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00216&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00216",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00216&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00216",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00216&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00216",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00216&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00216",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00216&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00216",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00216&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00216",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00216&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00216",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00216&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00216",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00216&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00216",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00216&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00216",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00216&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00216",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00216&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00216",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00216&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00216",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00250&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00250",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00250&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00250",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00198&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00198",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00198&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00198",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00196&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00196",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00196_expander&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00196_expander",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00196_expander&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00196_expander",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00196_expander&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00196_expander",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00196_expander&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00196_expander",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00196_expander&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00196_expander",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00196_expander&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00196_expander",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00196_expander&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00196_expander",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00196_expander&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00196_expander",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00196_expander&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00196_expander",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00196_expander&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00196_expander",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;wylderbuilds_00196_expander&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "wylderbuilds_00196_expander",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;juan_o_squarspace&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "juan_o_squarspace",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;juan_o_squarspace&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "juan_o_squarspace",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;juan_o_squarspace&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "juan_o_squarspace",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;shared_spi&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "shared_spi",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;shared_spi&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "shared_spi",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;shared_spi&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "shared_spi",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;shared_spi&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "shared_spi",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;juan_o_squarspace&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "juan_o_squarspace",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;juan_o_squarspace&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "juan_o_squarspace",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;juan_o_squarspace&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "juan_o_squarspace",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;juan_o_squarspace&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "juan_o_squarspace",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;juan_o_squarspace&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "juan_o_squarspace",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;juan_o_squarspace&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "juan_o_squarspace",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;juan_o_squarspace&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "juan_o_squarspace",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;juan_o_squarspace&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "juan_o_squarspace",
+      "currentBranchFilter": true
     },
     {
-      &quot;branch&quot;: &quot;keith_m_wylderbuilds&quot;,
-      &quot;currentBranchFilter&quot;: true
+      "branch": "keith_m_wylderbuilds",
+      "currentBranchFilter": true
+    },
+    {
+      "branch": "keith_m_wylderbuilds",
+      "currentBranchFilter": true
     }
   ],
-  &quot;lastFilter&quot;: {
-    &quot;branch&quot;: &quot;keith_m_wylderbuilds&quot;,
-    &quot;currentBranchFilter&quot;: true
+  "lastFilter": {
+    "branch": "keith_m_wylderbuilds",
+    "currentBranchFilter": true
   }
-}</component>
+}]]></component>
 </project>
