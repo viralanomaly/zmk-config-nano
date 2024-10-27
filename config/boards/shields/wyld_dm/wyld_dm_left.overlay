@@ -31,7 +31,8 @@
 			, <&gpio1 15  GPIO_ACTIVE_HIGH>  //  1.15
 		    , <&gpio0 2  GPIO_ACTIVE_HIGH>  // 0.02
 			, <&gpio0 29  GPIO_ACTIVE_HIGH>  // 0.29
-			, <&gpio0 31  GPIO_ACTIVE_HIGH>  // 0.31
+			, <&gpio0 31  GPIO_ACTIVE_HIGH>
+		    ;
 };
 
 &pinctrl {
