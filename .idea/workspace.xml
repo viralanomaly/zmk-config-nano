@@ -9,9 +9,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="Wrong last column pin">
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_left.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_left.overlay" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" afterDir="false" />
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="hemi-demi-semi-colons">
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,15 +137,7 @@
       <workItem from="1728406145951" duration="697000" />
       <workItem from="1728482843239" duration="1376000" />
       <workItem from="1729884984164" duration="1209000" />
-      <workItem from="1730053210259" duration="6215000" />
-    </task>
-    <task id="LOCAL-00177" summary="6789hy">
-      <option name="closed" value="true" />
-      <created>1726594537389</created>
-      <option name="number" value="00177" />
-      <option name="presentableId" value="LOCAL-00177" />
-      <option name="project" value="LOCAL" />
-      <updated>1726594537389</updated>
+      <workItem from="1730053210259" duration="7121000" />
     </task>
     <task id="LOCAL-00178" summary="expander still in the mix">
       <option name="closed" value="true" />
@@ -532,7 +523,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730065094954</updated>
     </task>
-    <option name="localTasksCounter" value="226" />
+    <task id="LOCAL-00226" summary="hemi-demi-semi-colons">
+      <option name="closed" value="true" />
+      <created>1730065269080</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1730065269080</updated>
+    </task>
+    <option name="localTasksCounter" value="227" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,7 +593,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="logging" />
     <MESSAGE value="Trying different motion pin" />
     <MESSAGE value="extra sensor logging?" />
     <MESSAGE value="My driver fork with 1s sensor init delay" />
@@ -619,7 +617,8 @@
     <MESSAGE value="using breakouts for translators" />
     <MESSAGE value="Rework pins for track and encoder to fit new R and C" />
     <MESSAGE value="Wrong last column pin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wrong last column pin" />
+    <MESSAGE value="hemi-demi-semi-colons" />
+    <option name="LAST_COMMIT_MESSAGE" value="hemi-demi-semi-colons" />
   </component>
   <component name="WfRunsListSearchHistory"><![CDATA[{
   "history": [
