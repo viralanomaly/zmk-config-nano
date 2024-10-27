@@ -9,8 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="using breakouts for translators">
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="Rework pins for track and encoder to fit new R and C">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_left.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_left.overlay" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,15 +139,7 @@
       <workItem from="1728406145951" duration="697000" />
       <workItem from="1728482843239" duration="1376000" />
       <workItem from="1729884984164" duration="1209000" />
-      <workItem from="1730053210259" duration="4982000" />
-    </task>
-    <task id="LOCAL-00174" summary="trying same channel">
-      <option name="closed" value="true" />
-      <created>1726510472508</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1726510472508</updated>
+      <workItem from="1730053210259" duration="5831000" />
     </task>
     <task id="LOCAL-00175" summary="typo">
       <option name="closed" value="true" />
@@ -531,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730062060700</updated>
     </task>
-    <option name="localTasksCounter" value="223" />
+    <task id="LOCAL-00223" summary="Rework pins for track and encoder to fit new R and C">
+      <option name="closed" value="true" />
+      <created>1730062192287</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1730062192287</updated>
+    </task>
+    <option name="localTasksCounter" value="224" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -593,7 +595,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="no logging" />
     <MESSAGE value="wha?" />
     <MESSAGE value="logging" />
     <MESSAGE value="Trying different motion pin" />
@@ -618,7 +619,8 @@
     <MESSAGE value="encoder definition" />
     <MESSAGE value="remove underglow in conf" />
     <MESSAGE value="using breakouts for translators" />
-    <option name="LAST_COMMIT_MESSAGE" value="using breakouts for translators" />
+    <MESSAGE value="Rework pins for track and encoder to fit new R and C" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rework pins for track and encoder to fit new R and C" />
   </component>
   <component name="WfRunsListSearchHistory"><![CDATA[{
   "history": [
