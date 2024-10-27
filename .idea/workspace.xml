@@ -9,11 +9,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="remove underglow in conf">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" afterDir="false" />
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="using breakouts for translators">
       <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_left.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_left.overlay" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,15 +137,7 @@
       <workItem from="1728406145951" duration="697000" />
       <workItem from="1728482843239" duration="1376000" />
       <workItem from="1729884984164" duration="1209000" />
-      <workItem from="1730053210259" duration="4861000" />
-    </task>
-    <task id="LOCAL-00173" summary="RGB keys">
-      <option name="closed" value="true" />
-      <created>1725388279007</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1725388279007</updated>
+      <workItem from="1730053210259" duration="4982000" />
     </task>
     <task id="LOCAL-00174" summary="trying same channel">
       <option name="closed" value="true" />
@@ -534,7 +523,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730059921988</updated>
     </task>
-    <option name="localTasksCounter" value="222" />
+    <task id="LOCAL-00222" summary="using breakouts for translators">
+      <option name="closed" value="true" />
+      <created>1730062060700</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1730062060700</updated>
+    </task>
+    <option name="localTasksCounter" value="223" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -596,7 +593,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="swap home and mute, rgb length" />
     <MESSAGE value="no logging" />
     <MESSAGE value="wha?" />
     <MESSAGE value="logging" />
@@ -621,7 +617,8 @@
     <MESSAGE value="Missed encoder in info.json" />
     <MESSAGE value="encoder definition" />
     <MESSAGE value="remove underglow in conf" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove underglow in conf" />
+    <MESSAGE value="using breakouts for translators" />
+    <option name="LAST_COMMIT_MESSAGE" value="using breakouts for translators" />
   </component>
   <component name="WfRunsListSearchHistory"><![CDATA[{
   "history": [
