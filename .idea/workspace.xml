@@ -9,8 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="hemi-demi-semi-colons">
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="thumb pins off">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,15 +139,7 @@
       <workItem from="1728406145951" duration="697000" />
       <workItem from="1728482843239" duration="1376000" />
       <workItem from="1729884984164" duration="1209000" />
-      <workItem from="1730053210259" duration="7121000" />
-    </task>
-    <task id="LOCAL-00178" summary="expander still in the mix">
-      <option name="closed" value="true" />
-      <created>1726595515571</created>
-      <option name="number" value="00178" />
-      <option name="presentableId" value="LOCAL-00178" />
-      <option name="project" value="LOCAL" />
-      <updated>1726595515571</updated>
+      <workItem from="1730053210259" duration="8299000" />
     </task>
     <task id="LOCAL-00179" summary="expander still in the mix 2">
       <option name="closed" value="true" />
@@ -531,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730065269080</updated>
     </task>
-    <option name="localTasksCounter" value="227" />
+    <task id="LOCAL-00227" summary="thumb pins off">
+      <option name="closed" value="true" />
+      <created>1730067581860</created>
+      <option name="number" value="00227" />
+      <option name="presentableId" value="LOCAL-00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1730067581860</updated>
+    </task>
+    <option name="localTasksCounter" value="228" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -593,7 +595,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Trying different motion pin" />
     <MESSAGE value="extra sensor logging?" />
     <MESSAGE value="My driver fork with 1s sensor init delay" />
     <MESSAGE value="Stealing back a pin" />
@@ -618,7 +619,8 @@
     <MESSAGE value="Rework pins for track and encoder to fit new R and C" />
     <MESSAGE value="Wrong last column pin" />
     <MESSAGE value="hemi-demi-semi-colons" />
-    <option name="LAST_COMMIT_MESSAGE" value="hemi-demi-semi-colons" />
+    <MESSAGE value="thumb pins off" />
+    <option name="LAST_COMMIT_MESSAGE" value="thumb pins off" />
   </component>
   <component name="WfRunsListSearchHistory"><![CDATA[{
   "history": [
