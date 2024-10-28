@@ -9,9 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="semicolon">
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="column order on right cluster">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/wyld_dm.conf" beforeDir="false" afterPath="$PROJECT_DIR$/config/wyld_dm.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,15 +139,7 @@
       <workItem from="1728482843239" duration="1376000" />
       <workItem from="1729884984164" duration="1209000" />
       <workItem from="1730053210259" duration="9577000" />
-      <workItem from="1730122163118" duration="302000" />
-    </task>
-    <task id="LOCAL-00181" summary="rgb interference">
-      <option name="closed" value="true" />
-      <created>1726599169069</created>
-      <option name="number" value="00181" />
-      <option name="presentableId" value="LOCAL-00181" />
-      <option name="project" value="LOCAL" />
-      <updated>1726599169069</updated>
+      <workItem from="1730122163118" duration="1304000" />
     </task>
     <task id="LOCAL-00182" summary="rgb interference gah">
       <option name="closed" value="true" />
@@ -533,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730070571616</updated>
     </task>
-    <option name="localTasksCounter" value="230" />
+    <task id="LOCAL-00230" summary="column order on right cluster">
+      <option name="closed" value="true" />
+      <created>1730122485446</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1730122485446</updated>
+    </task>
+    <option name="localTasksCounter" value="231" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,7 +595,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Stealing back a pin" />
     <MESSAGE value="Finalizing" />
     <MESSAGE value="Adjusting layout for editor" />
     <MESSAGE value="lets see" />
@@ -620,7 +619,8 @@
     <MESSAGE value="thumb pins off" />
     <MESSAGE value="right side reversed" />
     <MESSAGE value="semicolon" />
-    <option name="LAST_COMMIT_MESSAGE" value="semicolon" />
+    <MESSAGE value="column order on right cluster" />
+    <option name="LAST_COMMIT_MESSAGE" value="column order on right cluster" />
   </component>
   <component name="WfRunsListSearchHistory"><![CDATA[{
   "history": [
