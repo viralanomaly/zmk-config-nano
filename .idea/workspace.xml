@@ -9,8 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="right col pins">
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" afterDir="false" />
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="type Os">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,14 +141,6 @@
       <workItem from="1730053210259" duration="9577000" />
       <workItem from="1730122163118" duration="2099000" />
       <workItem from="1730129268524" duration="63000" />
-    </task>
-    <task id="LOCAL-00191" summary="swap home and mute, rgb length">
-      <option name="closed" value="true" />
-      <created>1728235031187</created>
-      <option name="number" value="00191" />
-      <option name="presentableId" value="LOCAL-00191" />
-      <option name="project" value="LOCAL" />
-      <updated>1728235031187</updated>
     </task>
     <task id="LOCAL-00192" summary="no logging">
       <option name="closed" value="true" />
@@ -533,7 +526,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730225432746</updated>
     </task>
-    <option name="localTasksCounter" value="240" />
+    <task id="LOCAL-00240" summary="type Os">
+      <option name="closed" value="true" />
+      <created>1730226300994</created>
+      <option name="number" value="00240" />
+      <option name="presentableId" value="LOCAL-00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1730226300994</updated>
+    </task>
+    <option name="localTasksCounter" value="241" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,7 +596,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="typos and conf" />
     <MESSAGE value="possible bad pin 0.11" />
     <MESSAGE value="test info.json" />
     <MESSAGE value="full row keys off a bit" />
@@ -620,7 +620,8 @@
     <MESSAGE value="columns" />
     <MESSAGE value="too many rows" />
     <MESSAGE value="right col pins" />
-    <option name="LAST_COMMIT_MESSAGE" value="right col pins" />
+    <MESSAGE value="type Os" />
+    <option name="LAST_COMMIT_MESSAGE" value="type Os" />
   </component>
   <component name="WfRunsListSearchHistory">{
   &quot;history&quot;: [
