@@ -9,7 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="remove mouse buttons">
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="Added ZMK Studio config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" afterDir="false" />
     </list>
@@ -24,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="brittani_b_2_squarespace" />
+        <entry key="$PROJECT_DIR$" value="brittani_b_squarespace" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,7 +59,7 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "brittani__b__squarespace",
+    "git-widget-placeholder": "brittani__b__squarespace__zmk__studio",
     "last_opened_file_path": "/Users/andrew/dev/wylderbuilds/zmk_customer_configs/zmk-config-nano/config/boards",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -141,14 +141,6 @@
       <workItem from="1730053210259" duration="9577000" />
       <workItem from="1730122163118" duration="2099000" />
       <workItem from="1730129268524" duration="63000" />
-    </task>
-    <task id="LOCAL-00188" summary="test enabling zmk studio">
-      <option name="closed" value="true" />
-      <created>1727736227284</created>
-      <option name="number" value="00188" />
-      <option name="presentableId" value="LOCAL-00188" />
-      <option name="project" value="LOCAL" />
-      <updated>1727736227284</updated>
     </task>
     <task id="LOCAL-00189" summary="single snippet">
       <option name="closed" value="true" />
@@ -534,7 +526,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730208751823</updated>
     </task>
-    <option name="localTasksCounter" value="237" />
+    <task id="LOCAL-00237" summary="Added ZMK Studio config">
+      <option name="closed" value="true" />
+      <created>1730210020952</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1730210020952</updated>
+    </task>
+    <option name="localTasksCounter" value="238" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -596,7 +596,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="testing new build" />
     <MESSAGE value="bad pin?" />
     <MESSAGE value="RGB underglow" />
     <MESSAGE value="typos and conf" />
@@ -621,7 +620,8 @@
     <MESSAGE value="comma" />
     <MESSAGE value="info json and removed mouse behaviors dtsi" />
     <MESSAGE value="remove mouse buttons" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove mouse buttons" />
+    <MESSAGE value="Added ZMK Studio config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added ZMK Studio config" />
   </component>
   <component name="WfRunsListSearchHistory"><![CDATA[{
   "history": [
@@ -836,10 +836,14 @@
     {
       "branch": "brittani_b_squarespace",
       "currentBranchFilter": true
+    },
+    {
+      "branch": "brittani_b_squarespace_zmk_studio",
+      "currentBranchFilter": true
     }
   ],
   "lastFilter": {
-    "branch": "brittani_b_squarespace",
+    "branch": "brittani_b_squarespace_zmk_studio",
     "currentBranchFilter": true
   }
 }]]></component>
