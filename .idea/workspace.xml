@@ -9,8 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="columns">
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" afterDir="false" />
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="too many rows">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/wyld_dm.keymap" beforeDir="false" afterPath="$PROJECT_DIR$/config/wyld_dm.keymap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,14 +142,6 @@
       <workItem from="1730053210259" duration="9577000" />
       <workItem from="1730122163118" duration="2099000" />
       <workItem from="1730129268524" duration="63000" />
-    </task>
-    <task id="LOCAL-00189" summary="single snippet">
-      <option name="closed" value="true" />
-      <created>1727736449017</created>
-      <option name="number" value="00189" />
-      <option name="presentableId" value="LOCAL-00189" />
-      <option name="project" value="LOCAL" />
-      <updated>1727736449017</updated>
     </task>
     <task id="LOCAL-00190" summary="left thumbs mixed up">
       <option name="closed" value="true" />
@@ -533,7 +527,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730217922978</updated>
     </task>
-    <option name="localTasksCounter" value="238" />
+    <task id="LOCAL-00238" summary="too many rows">
+      <option name="closed" value="true" />
+      <created>1730220369136</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1730220369136</updated>
+    </task>
+    <option name="localTasksCounter" value="239" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,7 +597,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="bad pin?" />
     <MESSAGE value="RGB underglow" />
     <MESSAGE value="typos and conf" />
     <MESSAGE value="possible bad pin 0.11" />
@@ -620,7 +621,8 @@
     <MESSAGE value="info json and removed mouse behaviors dtsi" />
     <MESSAGE value="configure thumbs without studio" />
     <MESSAGE value="columns" />
-    <option name="LAST_COMMIT_MESSAGE" value="columns" />
+    <MESSAGE value="too many rows" />
+    <option name="LAST_COMMIT_MESSAGE" value="too many rows" />
   </component>
   <component name="WfRunsListSearchHistory">{
   &quot;history&quot;: [

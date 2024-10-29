@@ -31,7 +31,7 @@
                     &kp CAPS  &kp A     &kp S    &kp D      &kp F      &kp G                          &kp H       &kp J     &kp K     &kp L    &kp SEMI &kp SQT
                     &kp LSHFT &kp Z     &kp X    &kp C      &kp V      &kp B                          &kp N       &kp M     &kp COMMA &kp DOT  &kp FSLH &kp RSHFT
                                                             &mo RAISE  &kp SPACE                  &kp ENTER  &mo LOWER
-                                                              &kp TAB    &kp DEL                &kp RALT   &kp RGUI
+                                                              &kp TAB    &kp BSPC                &kp DEL   &kp RALT
 			                                                    &kp LCTRL  &kp HOME           &kp K_MUTE &kp RCTRL
 			>;
 
