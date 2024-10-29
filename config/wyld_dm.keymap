@@ -31,8 +31,8 @@
                     &kp CAPS  &kp A     &kp S    &kp D      &kp F      &kp G                          &kp H       &kp J     &kp K     &kp L    &kp SEMI &kp SQT
                     &kp LSHFT &kp Z     &kp X    &kp C      &kp V      &kp B                          &kp N       &kp M     &kp COMMA &kp DOT  &kp FSLH &kp RSHFT
                                                             &mo RAISE  &kp SPACE                  &kp ENTER  &mo LOWER
-                                                              &kp TAB    &kp DEL                &mkp LCLK  &mkp RCLK
-			                                                    &kp LCTRL  &kp HOME           &kp K_MUTE  &kp DEL
+                                                              &kp TAB    &kp DEL                &kp RALT   &kp RGUI
+			                                                    &kp LCTRL  &kp HOME           &kp K_MUTE &kp RCTRL
 			>;
 
             sensor-bindings = <&inc_dec_kp PG_UP PG_DN>, <&inc_dec_kp C_VOL_DN C_VOL_UP>;
