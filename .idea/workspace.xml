@@ -9,8 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="info json and removed mouse behaviors dtsi">
-      <change beforePath="$PROJECT_DIR$/config/wyld_dm.keymap" beforeDir="false" afterPath="$PROJECT_DIR$/config/wyld_dm.keymap" afterDir="false" />
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="remove mouse buttons">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,14 +141,6 @@
       <workItem from="1730053210259" duration="9577000" />
       <workItem from="1730122163118" duration="2099000" />
       <workItem from="1730129268524" duration="63000" />
-    </task>
-    <task id="LOCAL-00187" summary="encoders missing in conf">
-      <option name="closed" value="true" />
-      <created>1726945786803</created>
-      <option name="number" value="00187" />
-      <option name="presentableId" value="LOCAL-00187" />
-      <option name="project" value="LOCAL" />
-      <updated>1726945786804</updated>
     </task>
     <task id="LOCAL-00188" summary="test enabling zmk studio">
       <option name="closed" value="true" />
@@ -533,7 +526,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730208599053</updated>
     </task>
-    <option name="localTasksCounter" value="236" />
+    <task id="LOCAL-00236" summary="remove mouse buttons">
+      <option name="closed" value="true" />
+      <created>1730208751823</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1730208751823</updated>
+    </task>
+    <option name="localTasksCounter" value="237" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,7 +596,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Missing 6th row in right overlay" />
     <MESSAGE value="testing new build" />
     <MESSAGE value="bad pin?" />
     <MESSAGE value="RGB underglow" />
@@ -620,7 +620,8 @@
     <MESSAGE value="pass at 4x6" />
     <MESSAGE value="comma" />
     <MESSAGE value="info json and removed mouse behaviors dtsi" />
-    <option name="LAST_COMMIT_MESSAGE" value="info json and removed mouse behaviors dtsi" />
+    <MESSAGE value="remove mouse buttons" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove mouse buttons" />
   </component>
   <component name="WfRunsListSearchHistory"><![CDATA[{
   "history": [
