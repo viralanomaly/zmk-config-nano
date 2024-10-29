@@ -9,17 +9,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="move cs and interrupt to 22 and 24">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/Kconfig.defconfig" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/Kconfig.defconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_left.conf" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_left.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_left.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_left.overlay" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.conf" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/west.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/west.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/wyld_dm.conf" beforeDir="false" afterPath="$PROJECT_DIR$/config/wyld_dm.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/wyld_dm.keymap" beforeDir="false" afterPath="$PROJECT_DIR$/config/wyld_dm.keymap" afterDir="false" />
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="pass at 4x6">
+      <change beforePath="$PROJECT_DIR$/config/info.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/info.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,14 +140,6 @@
       <workItem from="1730053210259" duration="9577000" />
       <workItem from="1730122163118" duration="2099000" />
       <workItem from="1730129268524" duration="63000" />
-    </task>
-    <task id="LOCAL-00184" summary="return encoders">
-      <option name="closed" value="true" />
-      <created>1726612457100</created>
-      <option name="number" value="00184" />
-      <option name="presentableId" value="LOCAL-00184" />
-      <option name="project" value="LOCAL" />
-      <updated>1726612457100</updated>
     </task>
     <task id="LOCAL-00185" summary="not k_home">
       <option name="closed" value="true" />
@@ -542,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730124082305</updated>
     </task>
-    <option name="localTasksCounter" value="233" />
+    <task id="LOCAL-00233" summary="pass at 4x6">
+      <option name="closed" value="true" />
+      <created>1730168964361</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1730168964361</updated>
+    </task>
+    <option name="localTasksCounter" value="234" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -604,7 +595,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lets see" />
     <MESSAGE value="errant led_strip" />
     <MESSAGE value="updated keymaps" />
     <MESSAGE value="Missing 6th row in right overlay" />
@@ -629,7 +619,8 @@
     <MESSAGE value="column order on right cluster" />
     <MESSAGE value="logging delay" />
     <MESSAGE value="move cs and interrupt to 22 and 24" />
-    <option name="LAST_COMMIT_MESSAGE" value="move cs and interrupt to 22 and 24" />
+    <MESSAGE value="pass at 4x6" />
+    <option name="LAST_COMMIT_MESSAGE" value="pass at 4x6" />
   </component>
   <component name="WfRunsListSearchHistory"><![CDATA[{
   "history": [
