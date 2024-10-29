@@ -26,7 +26,8 @@
 			, <&gpio1 13  GPIO_ACTIVE_HIGH>  // 1.13
 			, <&gpio1 11  GPIO_ACTIVE_HIGH>  //  1.10
 	        , <&gpio0 10 (GPIO_ACTIVE_HIGH )>  // 0.10
-			;	col-gpios
+			;
+//	col-gpios
 //			= <&gpio0 10 (GPIO_ACTIVE_HIGH )>
 //			, <&gpio1 11  GPIO_ACTIVE_HIGH>  //  1.10
 //			, <&gpio1 13  GPIO_ACTIVE_HIGH>  // 1.13
