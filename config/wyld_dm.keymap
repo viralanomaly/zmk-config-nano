@@ -23,14 +23,14 @@
     keymap {
         compatible = "zmk,keymap";
 
-        default_layer {
-            display-name = "QWERTY";
+        layer_4 {
+            display-name = "DVORAK";
             bindings = <
-&kp ESC    &kp N1     &kp N2     &kp N3     &kp N4     &kp N5               &kp N6    &kp N7     &kp N8     &kp N9   &kp N0    &kp MINUS
-&kp TAB    &kp Q      &kp W      &kp E      &kp R      &kp T                &kp Y     &kp U      &kp I      &kp O    &kp P     &kp LBKT
-&kp CAPS   &kp A      &kp S      &kp D      &kp F      &kp G    &kp K_MUTE  &kp HOME  &kp H      &kp J      &kp K    &kp L     &kp SEMI   &kp SQT
-&kp LSHFT  &kp Z      &kp X      &kp C      &kp V      &kp B                &kp N     &kp M      &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT
-                                 &mo RAISE  &kp SPACE  &kp TAB              &kp BSPC  &kp ENTER  &mo LOWER
+&kp ESC    &kp N1     &kp N2     &kp N3      &kp N4     &kp N5                     &kp N6    &kp N7     &kp N8  &kp N9  &kp N0  &kp MINUS
+&kp TAB    &kp SQT    &kp COMMA  &kp PERIOD  &kp P      &kp Y                      &kp F     &kp G      &kp C   &kp R   &kp L   &kp BACKSLASH
+&kp CAPS   &kp A      &kp O      &kp E       &kp U      &kp I          &kp K_MUTE  &kp HOME  &kp D      &kp H   &kp T   &kp N   &kp S          &kp RIGHT_WIN
+&kp LSHFT  &kp SLASH  &kp Q      &kp J       &kp K      &kp X                      &kp B     &kp M      &kp W   &kp V   &kp Z   &kp RSHFT
+                                 &mo 2       &kp SPACE  &kp SEMICOLON              &kp BSPC  &kp ENTER  &mo 1
 &kp DEL    &mkp LCLK  &mkp RCLK
             >;
 
@@ -80,22 +80,6 @@
 &trans  &trans     &trans     &trans     &trans     &trans          &trans  &trans  &trans     &trans     &trans  &trans
                               &trans     &trans     &trans          &trans  &trans  &trans
 &trans  &mkp LCLK  &mkp RCLK
-            >;
-
-            sensor-bindings =
-                <&inc_dec_kp PG_UP PG_DN>,
-                <&inc_dec_kp C_VOL_DN C_VOL_UP>;
-        };
-
-        layer_4 {
-            display-name = "DVORAK";
-            bindings = <
-&kp ESC    &kp N1     &kp N2     &kp N3      &kp N4     &kp N5                     &kp N6    &kp N7     &kp N8     &kp N9  &kp N0  &kp MINUS
-&kp TAB    &kp SQT    &kp COMMA  &kp PERIOD  &kp P      &kp Y                      &kp F     &kp G      &kp C      &kp R   &kp L   &kp BACKSLASH
-&kp CAPS   &kp A      &kp O      &kp E       &kp U      &kp I          &kp K_MUTE  &kp HOME  &kp D      &kp H      &kp T   &kp N   &kp S          &kp RIGHT_WIN
-&kp LSHFT  &kp SLASH  &kp Q      &kp J       &kp K      &kp X                      &kp B     &kp M      &kp W      &kp V   &kp Z   &kp RSHFT
-                                 &mo RAISE   &kp SPACE  &kp SEMICOLON              &kp BSPC  &kp ENTER  &mo LOWER
-&kp DEL    &mkp LCLK  &mkp RCLK
             >;
 
             sensor-bindings =
